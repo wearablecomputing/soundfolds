@@ -1,5 +1,5 @@
 # Sound Folds
-4 Jan-26 Feb 2021
+Jan - Feb 2021
 
 The goal of this project was to develop interactive garments for three musicians, playing the trumpet, cello and vibraphone. The garments are intended to be used in blended performance settings, combining acoustic instrument playing with interactive and responsive electronic music elements.
 
